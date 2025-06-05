@@ -10,14 +10,14 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "STARK-ALI~yh4zEZAK#qYUkpS2_TGnkTZuv-bfV-AF075mfCfSylcciTpyCz0g"
     },  
     
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𓆩ု᪳𝐀ɭīī 𝐌Ɗှ᪳𓆪"
+      "value": "✯ 𝘽𝙍𝙊𝙒𝙉 𝙎𝙐𝙂𝘼𝙍 🀢"
     }, 
       
     "PREFIX": {
@@ -36,7 +36,7 @@
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_REPLY": {
@@ -90,7 +90,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𓆩ု᪳𝐀ɭīī 𝐌Ɗှ᪳𓆪"
+      "value": "✯ 𝘽𝙍𝙊𝙒𝙉 𝙎𝙐𝙂𝘼𝙍 🀢"
 
       }, 
     
@@ -133,7 +133,7 @@
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     
